@@ -298,7 +298,7 @@ GROUP BY branch, time_of_day
 ORDER BY branch, avg_rating DESC;
 
 
-SELECT branch, time_of_day, avg_rating
+
 
 
 
